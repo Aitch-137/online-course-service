@@ -1,8 +1,8 @@
 # Online Course Service
 
 ## Student information
-- Name: **FILL IN YOUR NAME**
-- Student ID: **FILL IN YOUR STUDENT ID**
+- Name: **Hein Nyan Swen**
+- Student ID: **6732096**
 
 ## Structure
 - `next-backend/`: Next.js API, MongoDB, JWT HTTP-only cookie session
