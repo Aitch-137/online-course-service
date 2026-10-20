@@ -71,11 +71,3 @@
 6. Redeploy backend after configuring `FRONTEND_URL`. Check `/api/health`, login and full workflow.
 7. Some browsers block cross-site third-party cookies between independent Vercel project domains. If login fails despite correct credentials, use a shared custom domain (e.g., `api.example.com` and `app.example.com`) and verify browser cookie policy; simply exposing JWT to JavaScript is not a secure workaround.
 8. For two source repository links when required, create separate GitHub repositories containing the **unaltered `next-backend` and `react-frontend` folder contents** while retaining the combined original project as your working source. Deploy each corresponding repo.
-
-## Submission checklist
-- Backend GitHub repository URL: **ADD URL**
-- Frontend GitHub repository URL: **ADD URL**
-- Backend deployed URL: **ADD URL**
-- Frontend deployed URL: **ADD URL**
-- Full-screen and camera recording link: **ADD LINK**
-- Verify test credentials and replace student information before submission.
